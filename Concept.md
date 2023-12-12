@@ -15,3 +15,9 @@ Therefore, my idea is to use an AI Large Language Model to analyze updates to th
 我的想法是通过结合[`Bootlin`网站](https://elixir.bootlin.com/linux/)和 github中 Linux 官方项目的所有 commit, pr, issue 记录来作为语料训练大模型，通过大模型来总结现在内核的结构，工作流程编写成 Gitbook 在线书籍。同时支持引入人类对编写的文档进行纠错并反馈给大模型改正。功能还有描述 Linux 内核某一功能的发展，方便学习者理解。
 
 I propose to achieve this by combining information from the Bootlin website and all commit, pull request (PR), and issue records from the official Linux project on GitHub as training data for the language model. The large model would then summarize the current structure of the kernel and its workflow, producing an online Gitbook. This platform would also support human input for document editing, allowing users to provide corrections and feedback to the model. Additionally, the system would include features to describe the development of specific functionalities within the Linux kernel, making it easier for learners to comprehend.
+
+---
+
+作为一名大三学生，我需要准备考研升学和寻找实习，因此这个项目的进展会相对较慢。(´;ω;`)
+
+As a third-year undergraduate student, I need to prepare for postgraduate entrance exams and search for internships, so the progress of this project will be relatively slow. (´;ω;`)
