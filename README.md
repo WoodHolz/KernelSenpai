@@ -24,38 +24,11 @@ PhoenixKernelGuide 是一本关于理解 Linux 内核的动态、不断发展的
 
   **版本控制支持：** 用户可以选择查看特定版本的文档，以适应不同内核版本之间的差异。
 
-## Demo Usage 项目演示的使用方法
+## Concept 构想
 
-1. **Clone the Repository 克隆仓库:**
+[Please cheak this file to understand the concept of this project.](Concept.md)
 
-   ```bash
-   git clone https://github.com/your-username/PhoenixKernelGuide.git
-   ```
-
-2. **Navigate to the Project Directory 进入项目目录:**
-
-   ```bash
-   cd PhoenixKernelGuide
-   ```
-
-3. **Install Dependencies 安装依赖:**
-
-   ```bash
-   # Optionally use a virtual environment 可选择使用虚拟环境
-   python -m venv venv
-   source venv/bin/activate
-
-   # Install dependencies 安装依赖
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Project 运行项目:**
-
-   ```bash
-   python main.py
-   ```
-
-5. **Open your browser and visit http://localhost:8000 to view the generated documents 打开浏览器访问 http://localhost:8000 查看生成的文档.**
+[请查看这个文件，以便你了解本项目的构想。](Concept.md)
 
 ## Contribution
 
