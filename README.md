@@ -1,10 +1,10 @@
-# PhoenixKernelGuide
+# KernelSenpai
 
 ## Introduction
 
-PhoenixKernelGuide is a dynamic and evolving guide to understanding the Linux Kernel, combining the power of AI language models and real-time development records. It aims to provide an up-to-date learning resource that reflects the ever-changing landscape of the Linux Kernel.
+KernelSenpai is a dynamic and evolving guide to understanding the Linux Kernel, combining the power of AI language models and real-time development records. It aims to provide an up-to-date learning resource that reflects the ever-changing landscape of the Linux Kernel.
 
-PhoenixKernelGuide 是一本关于理解 Linux 内核的动态、不断发展的指南，结合了人工智能语言模型与实时开发记录。它旨在提供一个能够反映 Linux 内核不断变化的学习资源。
+KernelSenpai 是一本关于理解 Linux 内核的动态、不断发展的指南，结合了人工智能语言模型与实时开发记录。它旨在提供一个能够反映 Linux 内核不断变化的学习资源。
 
 ## Features
 
